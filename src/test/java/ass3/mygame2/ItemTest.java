@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author Nigel Franciscus
+ * @author Sandeep Kaur
  */
 public class ItemTest {
     

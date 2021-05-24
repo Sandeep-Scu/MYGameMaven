@@ -3,8 +3,8 @@ package ass3.mygame2;
 /**
  * 
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Sandeep)
+ * @version (2021.05.23)
  */
 public class Item
 {
